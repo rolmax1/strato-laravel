@@ -1,0 +1,385 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"array"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"url",
+				"URL"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"A",
+				"App"
+			],
+			[
+				"php",
+				"PHP"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"plugi",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"auto",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Snippet: ",
+				"Snippet: <?php if (…) ?> … <?php else ?> … <?php endif ?>"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pr",
+				"Project: Refresh Folders"
+			],
+			[
+				"markdow",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/janweber/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/janweber/Desktop/ortseingabe.txt",
+		"/Users/janweber/Library/Caches/Cleanup At Startup/Transmit/F34A27B0-620F-4D41-8864-7CFD2E4CF6EE/index.php",
+		"/Users/janweber/Sites/test/test",
+		"/Users/janweber/Sites/index.html",
+		"/Applications/MAMP/htdocs/blog/app/config/database.php",
+		"/Applications/MAMP/htdocs/laravel/app/config/database.php",
+		"/Applications/MAMP/htdocs/laravel/app/config/mail.php",
+		"/Applications/MAMP/htdocs/laravel/app/database/migrations/.gitkeep",
+		"/Applications/MAMP/htdocs/laravel/app/storage/sessions/308ddb64681eb523962da5be122d7d46725c3fe0",
+		"/Applications/MAMP/htdocs/blog/app/database/migrations/2014_02_23_113544_create_games.php",
+		"/Applications/MAMP/htdocs/blog/app/storage/sessions/cc9d079cffa62e10faa0a335cab3dede27b77b57",
+		"/Applications/MAMP/htdocs/blog/app/views/emails/auth/reminder.blade.php",
+		"/Applications/MAMP/htdocs/blog/app/filters.php",
+		"/Applications/MAMP/htdocs/blog/app/config/app.php",
+		"/Applications/MAMP/htdocs/blog/app/config/mail.php",
+		"/Applications/MAMP/htdocs/blog/app/config/compile.php",
+		"/Applications/MAMP/htdocs/blog/app/config/cache.php",
+		"/Applications/MAMP/htdocs/blog/app/config/auth.php",
+		"/Applications/MAMP/htdocs/blog/app/commands/.gitkeep",
+		"/Applications/MAMP/htdocs/blog/app/routes.php",
+		"/Applications/MAMP/htdocs/blog/app/start/artisan.php",
+		"/Applications/MAMP/htdocs/blog/app/lang/en/reminders.php",
+		"/Applications/MAMP/htdocs/blog/app/start/local.php",
+		"/Applications/MAMP/htdocs/blog/app/controllers/BaseController.php",
+		"/Applications/MAMP/htdocs/blog/app/start/global.php",
+		"/Applications/MAMP/htdocs/blog/app/tests/TestCase.php",
+		"/Applications/MAMP/htdocs/blog/app/storage/.gitignore",
+		"/Applications/MAMP/htdocs/blog/app/models/User.php",
+		"/Applications/MAMP/htdocs/blog/app/lang/en/validation.php",
+		"/Applications/MAMP/htdocs/blog/app/lang/en/pagination.php",
+		"/Applications/MAMP/htdocs/blog/app/database/seeds/DatabaseSeeder.php",
+		"/Applications/MAMP/htdocs/blog/app/database/seeds/.gitkeep",
+		"/Applications/MAMP/htdocs/blog/app/database/migrations/.gitkeep",
+		"/Applications/MAMP/htdocs/blog/app/database/production.sqlite",
+		"/Applications/MAMP/htdocs/blog/app/controllers/HomeController.php",
+		"/Applications/MAMP/htdocs/blog/app/controllers/.gitkeep",
+		"/Applications/MAMP/htdocs/blog/app/config/testing/session.php",
+		"/Applications/MAMP/htdocs/blog/app/config/testing/cache.php",
+		"/Applications/MAMP/htdocs/blog/app/config/packages/.gitkeep",
+		"/Applications/MAMP/htdocs/blog/app/config/workbench.php",
+		"/Applications/MAMP/htdocs/blog/app/config/view.php",
+		"/Applications/MAMP/htdocs/blog/app/config/session.php",
+		"/Applications/MAMP/htdocs/blog/app/config/remote.php",
+		"/Applications/MAMP/htdocs/blog/app/config/queue.php",
+		"/Users/janweber/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/blog/app/views/hello.php",
+		"/Users/janweber/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/janweber/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/Applications/MAMP/htdocs/blog/app/tests/ExampleTest.php",
+		"/Applications/MAMP/htdocs/blog/app/storage/views/.gitignore",
+		"/Applications/MAMP/htdocs/blog/app/storage/sessions/f513700bb8a060de62fcf812a3277e591bb3a199",
+		"/Applications/MAMP/htdocs/blog/app/storage/sessions/c31d953d8542a6bf5e69ab3771e0daef9248bde6",
+		"/Applications/MAMP/htdocs/blog/app/storage/sessions/0d3c785f04683ffe9eee4b1407bb6c6e6873c25b",
+		"/Applications/MAMP/htdocs/blog/app/storage/sessions/0bc92ac68caed3f21db18f7b5cc31b332f2d00ba",
+		"/Applications/MAMP/htdocs/blog/app/storage/sessions/.gitignore",
+		"/Applications/MAMP/htdocs/blog/app/storage/meta/services.json",
+		"/Applications/MAMP/htdocs/blog/app/storage/meta/.gitignore",
+		"/Applications/MAMP/htdocs/blog/app/storage/logs/.gitignore",
+		"/Applications/MAMP/htdocs/blog/app/storage/cache/.gitignore",
+		"/Applications/MAMP/htdocs/blog/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php",
+		"/Applications/MAMP/htdocs/blog/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/test/site/base_tag/base_link.html",
+		"/Applications/MAMP/htdocs/blog/vendor/bin/boris",
+		"/Applications/MAMP/htdocs/blog/artisan",
+		"/Applications/MAMP/htdocs/blog/readme.md",
+		"/Applications/MAMP/htdocs/blog/vendor/predis/predis/lib/Predis/ResponseObjectInterface.php",
+		"/Applications/MAMP/htdocs/blog/vendor/laravel/framework/src/Illuminate/Foundation/AssetPublisher.php",
+		"/Applications/MAMP/htdocs/blog/vendor/laravel/framework/src/Illuminate/View/composer.json",
+		"/Applications/MAMP/htdocs/blog/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/packages/simpletest.org/test/package/here_overview.xml",
+		"/Applications/MAMP/htdocs/blog/vendor/d11wtq/boris/lib/Boris/EvalWorker.php",
+		"/Applications/MAMP/htdocs/blog/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/docs/source/fr/overview.xml",
+		"/Applications/MAMP/htdocs/blog/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/docs/source/en/overview.xml",
+		"/Applications/MAMP/htdocs/blog/vendor/swiftmailer/swiftmailer/doc/overview.rst",
+		"/Applications/MAMP/htdocs/blog/vendor/laravel/framework/src/Illuminate/Exception/WhoopsDisplayer.php",
+		"/Applications/MAMP/htdocs/blog/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php",
+		"/Applications/MAMP/htdocs/blog/vendor/laravel/framework/src/Illuminate/Foundation/Console/ViewPublishCommand.php",
+		"/Applications/MAMP/htdocs/blog/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php",
+		"/Applications/MAMP/htdocs/blog/vendor/laravel/framework/src/Illuminate/View/ViewFinderInterface.php",
+		"/Applications/MAMP/htdocs/blog/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php",
+		"/Applications/MAMP/htdocs/blog/vendor/laravel/framework/src/Illuminate/Foundation/ViewPublisher.php",
+		"/Applications/MAMP/htdocs/blog/vendor/laravel/framework/src/Illuminate/View/View.php",
+		"/Applications/MAMP/htdocs/blog/vendor/symfony/finder/Symfony/Component/Finder/Expression/ValueInterface.php",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/src/ClassPreloader/Parser/DirVisitor.php",
+		"/Applications/MAMP/htdocs/blog/vendor/composer/installed.json",
+		"/Applications/MAMP/htdocs/blog/vendor/composer/include_paths.php",
+		"/Applications/MAMP/htdocs/blog/vendor/composer/ClassLoader.php",
+		"/Applications/MAMP/htdocs/blog/vendor/composer/autoload_real.php",
+		"/Applications/MAMP/htdocs/blog/vendor/composer/autoload_namespaces.php",
+		"/Applications/MAMP/htdocs/blog/vendor/composer/autoload_files.php",
+		"/Applications/MAMP/htdocs/blog/vendor/composer/autoload_classmap.php",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/src/ClassPreloader/Parser/NodeTraverser.php",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/src/ClassPreloader/Parser/FileVisitor.php",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/src/ClassPreloader/Parser/AbstractNodeVisitor.php",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/src/ClassPreloader/Command/PreCompileCommand.php",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/src/ClassPreloader/Config.php",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/src/ClassPreloader/ClassNode.php",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/src/ClassPreloader/ClassLoader.php",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/src/ClassPreloader/ClassList.php",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/src/ClassPreloader/Application.php",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/README.md",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/LICENSE.md",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/composer.json",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/classpreloader.php",
+		"/Applications/MAMP/htdocs/blog/vendor/classpreloader/classpreloader/.gitignore",
+		"/Applications/MAMP/htdocs/blog/vendor/bin/classpreloader.php",
+		"/Applications/MAMP/htdocs/blog/vendor/autoload.php",
+		"/Applications/MAMP/htdocs/blog/public/packages/.gitkeep",
+		"/Applications/MAMP/htdocs/blog/public/robots.txt",
+		"/Applications/MAMP/htdocs/blog/public/index.php",
+		"/Applications/MAMP/htdocs/blog/public/.htaccess",
+		"/Applications/MAMP/htdocs/blog/bootstrap/start.php",
+		"/Applications/MAMP/htdocs/blog/bootstrap/paths.php",
+		"/Applications/MAMP/htdocs/blog/bootstrap/autoload.php",
+		"/Applications/MAMP/htdocs/blog/server.php",
+		"/Applications/MAMP/htdocs/blog/phpunit.xml",
+		"/Applications/MAMP/htdocs/blog/CONTRIBUTING.md",
+		"/Applications/MAMP/htdocs/blog/composer.lock",
+		"/Applications/MAMP/htdocs/blog/composer.json",
+		"/Applications/MAMP/htdocs/blog/.gitignore",
+		"/Applications/MAMP/htdocs/blog/.gitattributes",
+		"/Applications/MAMP/htdocs/laravel/app/models/User.php",
+		"/Applications/MAMP/htdocs/laravel/app/controllers/HomeController.php",
+		"/Users/janweber/.ssh/known_hosts",
+		"/Volumes/django/hello_django/hello/hello/settings.py",
+		"/Users/janweber/Library/Caches/TemporaryItems/settings.py",
+		"/Applications/MAMP/htdocs/laravel/app/views/hello.php",
+		"/Users/janweber/Desktop/Markdown Cheatsheet.md",
+		"/Volumes/ftp.strato.com 3/wordpress/wp-content/themes/anew/content.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Side bar",
+			"side",
+			"mysql.sock",
+			"/var/mysql/mysql.sock",
+			"mysql"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "laravel.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"20",
+				"database/migrations/2014_02_23_113544_create_games.php"
+			],
+			[
+				"blade",
+				"views/emails/auth/reminder.blade.php"
+			],
+			[
+				"",
+				"filters.php"
+			],
+			[
+				"fi",
+				"filters.php"
+			],
+			[
+				"bl",
+				"views/emails/auth/reminder.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Projekte/sublime.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
